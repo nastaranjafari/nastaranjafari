@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Nastaran Jafari</h1>
 
-<!--
-**nastaranjafari/nastaranjafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💡 AI enthusiast | 🧠 Deep Learning student | ❤️ Machine learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 Currently learning: `Deep Learning`, `Medical Image Segmentation`, `PyTorch`, `OpenCV`
+- 🌱 Focused on: Building real-world ML projects and learning from hands-on experience.
+- 🎯 Goal: To contribute to impactful AI tools in healthcare and diagnostics.
+- 💻 Background: Python | Labeling | Segmentation | Model Training
+
+---
+
+### 🛠 My Tech Stack
+
+```python
+Languages: Python, Bash  
+Libraries: PyTorch, OpenCV, torchvision, scikit-learn, segmentation_models.pytorch  
+Tools:
