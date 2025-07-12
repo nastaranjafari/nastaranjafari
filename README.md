@@ -20,10 +20,19 @@
 ```python
 Languages: Python, Bash  
 Libraries: PyTorch, OpenCV, torchvision, scikit-learn, segmentation_models.pytorch
+📂 Featured Projects (coming soon)
 
-Tools:
+
 | 💼 Project                   | 💬 Description                            | 🔗 Status   |
 | ---------------------------- | ----------------------------------------- | ----------- |
 | 🔬 UNet Medical Segmentation | Segmentation of CT/MRI images using UNet  | In Progress |
 | 🏷 Data Labeling Tools       | Sample labeled data + labeling tools demo | Planned     |
 | 🧪 ML Classifier             | A simple classification model for images  | Planned     |
+
+
+📫 Contact Me
+
+📧 Email: nastaranjafari039@gmail.com
+
+
+
